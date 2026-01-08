@@ -1,0 +1,22 @@
+# data.yaml
+
+path: /mnt/c/Users/10957/Desktop/rocktnet/Generation/dataset
+
+train: train/images
+val: val/images
+
+nc: 12
+
+names:
+  0: PMOS
+  1: NMOS
+  2: NPN
+  3: PNP
+  4: Inducer      
+  5: Diode
+  6: Resistor
+  7: Capacitor
+  8: Ground
+  9: Voltage
+  10: Current
+  11: Text        

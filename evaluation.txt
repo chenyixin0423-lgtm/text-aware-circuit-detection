@@ -1,0 +1,72 @@
+1.Baseline
+Evaluation Mode: FULL
+============================================================
+Average GED: 187.37
+Average Accuracy: 0.0114
+Std Dev GED: 91.40
+Min GED: 52.00
+Max GED: 721.00
+
+Average Components Detected: 34.4
+Average Edges: 86.5
+
+============================================================
+EVALUATION COMPLETE
+
+2.NegativeLearning Without Text Overlap 
+Evaluation Mode: FULL
+============================================================
+Average GED: 121.01
+Average Accuracy: 0.0958
+Std Dev GED: 44.90
+Min GED: 19.00
+Max GED: 255.00
+
+Average Components Detected: 13.7
+Average Edges: 10.6
+
+============================================================
+EVALUATION COMPLETE
+
+3.With Text Label – No Overlap
+Evaluation Mode: FULL
+============================================================
+Average GED: 120.89
+Average Accuracy: 0.0931
+Std Dev GED: 44.49
+Min GED: 22.00
+Max GED: 242.00
+
+Average Components Detected: 11.1
+Average Edges: 6.1
+
+============================================================
+EVALUATION COMPLETE
+
+4.With Text Label – With Overlap
+Evaluation Mode: FULL
+============================================================
+Average GED: 134.10
+Average Accuracy: 0.0561
+Std Dev GED: 46.67
+Min GED: 34.00
+Max GED: 267.00
+
+Average Components Detected: 23.3
+Average Edges: 28.5
+
+============================================================
+EVALUATION COMPLETE
+
+5.Checkpoint Fine-Tuning
+Average GED: 128.55
+Average Accuracy: 0.0828
+Std Dev GED: 54.71
+Min GED: 27.00
+Max GED: 420.00
+
+Average Components Detected: 20.2
+Average Edges: 22.8
+
+============================================================
+EVALUATION COMPLETE
